@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1545564341 source:c:\users\anonim\documents\codeblocks\ödev3\main.cpp
+	<iostream>
+	<fstream>
+
+1545772652 source:c:\users\anonim\desktop\ödev3\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	<windows.h>
+	<clocale>
+	<iomanip>
+	<stdio.h>
+
